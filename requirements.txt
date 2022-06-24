@@ -1,0 +1,4 @@
+paddlepaddle==2.3.0
+paddleocr==2.5
+protobuf==3.20.*
+flask
