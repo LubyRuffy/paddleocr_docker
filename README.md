@@ -7,6 +7,10 @@
 docker build -t lubyruffy/paddleocr:2.5 .
 ```
 
+## 导出
+```
+docker save -o paddleocr_2.5.tar lubyruffy/paddleocr:2.5
+```
 
 ## 运行
 ```
